@@ -18,9 +18,12 @@ fbcn5UAVanZf6UtG,2018-12-08T09:30:00+00:00
 Command:
 
 $ javac *.java   //compile both java files
+
 $ java most_active_cookie cookie_log.csv -d 2018-12-09  
 
-//if not in same file use this format // $ java most_active_cookie [filepath of csv] -d [datereq] 
+//if not in same file use this format // 
+
+$ java most_active_cookie [filepath of csv] -d [datereq] 
 
 Output:
 
