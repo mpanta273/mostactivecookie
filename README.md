@@ -17,7 +17,7 @@ fbcn5UAVanZf6UtG,2018-12-08T09:30:00+00:00
 
 Command:
 
-$ javac *.java   //compile both java files
+$ javac *.java   
 
 $ java most_active_cookie cookie_log.csv -d 2018-12-09  
 
